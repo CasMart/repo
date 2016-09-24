@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+	<title>Lista de reprodução</title>
+	<trackList>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/77.ts</location>
+			<title>RTP 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/80.ts</location>
+			<title>RTP 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/87.ts</location>
+			<title>SIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/125.ts</location>
+			<title>TVI</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/127.ts</location>
+			<title>TVI 24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/86.ts</location>
+			<title>RTP3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/92.ts</location>
+			<title>SIC NOTICIAS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/91.ts</location>
+			<title>SIC MULHER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/89.ts</location>
+			<title>SIC CARAS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/93.ts</location>
+			<title>SIC RADICAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/31.ts</location>
+			<title>CANAL Q</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/74.ts</location>
+			<title>PORTO CANAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/85.ts</location>
+			<title>RTP MEMORIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/83.ts</location>
+			<title>RTP AFRICA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/84.ts</location>
+			<title>RTP MADEIRA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/82.ts</location>
+			<title>RTP AÇORES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/36.ts</location>
+			<title>CMTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/121.ts</location>
+			<title>TVC1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/122.ts</location>
+			<title>TVC2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/123.ts</location>
+			<title>TVC3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/124.ts</location>
+			<title>TVC4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/55.ts</location>
+			<title>HOLLYWOOD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/56.ts</location>
+			<title>HOLLYWOOD HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/52.ts</location>
+			<title>FOX MOVIES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/35.ts</location>
+			<title>CINEMUNDO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/12.ts</location>
+			<title>AMC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/63.ts</location>
+			<title>MOV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/14.ts</location>
+			<title>AXN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/15.ts</location>
+			<title>AXN WHITE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/13.ts</location>
+			<title>AXN BLACK HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/50.ts</location>
+			<title>FOX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/51.ts</location>
+			<title>FOX LIFE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/49.ts</location>
+			<title>FOX CRIME HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/112.ts</location>
+			<title>SYFY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/48.ts</location>
+			<title>FOX COMEDY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/41.ts</location>
+			<title>E! ENTERTAINMENT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/18.ts</location>
+			<title>BBC ENTERTAINMENT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/33.ts</location>
+			<title>CBS REALITY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/120.ts</location>
+			<title>TVC SERIES</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/128.ts</location>
+			<title>TVI FICCAO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/131.ts</location>
+			<title>TVI REALITY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/129.ts</location>
+			<title>TVI REALITY CAMARA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/130.ts</location>
+			<title>TVI REALITY MOSAICO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/97.ts</location>
+			<title>SPORTV 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/100.ts</location>
+			<title>SPORTV 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/103.ts</location>
+			<title>SPORTV 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/106.ts</location>
+			<title>SPORTV 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/109.ts</location>
+			<title>SPORTV 5</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/98.ts</location>
+			<title>SPORTV 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/101.ts</location>
+			<title>SPORTV 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/104.ts</location>
+			<title>SPORTV 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/107.ts</location>
+			<title>SPORTV 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/110.ts</location>
+			<title>SPORTV 5 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/286.ts</location>
+			<title>SPORT TV +</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/19.ts</location>
+			<title>BENFICA TV 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/20.ts</location>
+			<title>BENFICA TV 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/96.ts</location>
+			<title>SPORTING TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/94.ts</location>
+			<title>SPORTING HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/43.ts</location>
+			<title>EUROSPORT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/44.ts</location>
+			<title>EUROSPORT 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/45.ts</location>
+			<title>EUROSPORT 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/46.ts</location>
+			<title>EUROSPORT NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/62.ts</location>
+			<title>MOTORVISION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/61.ts</location>
+			<title>MOTORS TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/72.ts</location>
+			<title>PFC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/75.ts</location>
+			<title>REAL MADRID</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/54.ts</location>
+			<title>FUEL TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/24.ts</location>
+			<title>BOLA TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/29.ts</location>
+			<title>CACAVISION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/28.ts</location>
+			<title>CAÇA E PESCA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/114.ts</location>
+			<title>TOROS TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/66.ts</location>
+			<title>NATIONAL GEOGRAPHIC HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/65.ts</location>
+			<title>NATIONAL GEO WILD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/38.ts</location>
+			<title>DISCOVERY HD SHOWCASE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/37.ts</location>
+			<title>DISCOVERY CHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/113.ts</location>
+			<title>TLC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/68.ts</location>
+			<title>ODISSEIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/10.ts</location>
+			<title>A&amp;E</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/76.ts</location>
+			<title>RECORD NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/53.ts</location>
+			<title>FOX NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/118.ts</location>
+			<title>TV GLOBO PREMIUM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/117.ts</location>
+			<title>TV GLOBO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/119.ts</location>
+			<title>TV RECORD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/42.ts</location>
+			<title>EURONEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/116.ts</location>
+			<title>TRAVEL CHANNEL HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/16.ts</location>
+			<title>BABY FIRST</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/17.ts</location>
+			<title>BABY TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/90.ts</location>
+			<title>SIC K</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/40.ts</location>
+			<title>DISNEY JUNIOR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/39.ts</location>
+			<title>DISNEY CHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/59.ts</location>
+			<title>JIM JAM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/32.ts</location>
+			<title>CARTOON NETWORK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/71.ts</location>
+			<title>PANDA BIGGS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/70.ts</location>
+			<title>PANDA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/67.ts</location>
+			<title>NICKELODEON</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/30.ts</location>
+			<title>CANAL DE HISTORIA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/23.ts</location>
+			<title>BLOOMBERG</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/69.ts</location>
+			<title>OUTDOOR HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/47.ts</location>
+			<title>FOOD NETWORK HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/9.ts</location>
+			<title>24 KITCHEN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/115.ts</location>
+			<title>TRACE URBAN TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/133.ts</location>
+			<title>VH1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/11.ts</location>
+			<title>AFRO MUSIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/64.ts</location>
+			<title>MTV PORTUGAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/60.ts</location>
+			<title>MCM POP</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/27.ts</location>
+			<title>C- MUSIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/78.ts</location>
+			<title>RTP 1 (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/81.ts</location>
+			<title>RTP 2 (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/126.ts</location>
+			<title>TVI (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/88.ts</location>
+			<title>SIC (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/99.ts</location>
+			<title>SPORTV 1 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/102.ts</location>
+			<title>SPORTV 2 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/105.ts</location>
+			<title>SPORTV 3 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/108.ts</location>
+			<title>SPORTV 4 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/111.ts</location>
+			<title>SPORTV 5 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/25.ts</location>
+			<title>BENFICA TV 1 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/95.ts</location>
+			<title>SPORTING HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/5.ts</location>
+			<title>TVC 1 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/4.ts</location>
+			<title>TVC 2 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/3.ts</location>
+			<title>TVC 3 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/2.ts</location>
+			<title>TVC 4 HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/7.ts</location>
+			<title>AXN HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/6.ts</location>
+			<title>AXN WHITE HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/8.ts</location>
+			<title>AXN BLACK HD (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/1.ts</location>
+			<title>TVC SERIES (LOW)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/263.ts</location>
+			<title>RTP 1 FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/264.ts</location>
+			<title>RTP 2 FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/266.ts</location>
+			<title>TVI FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/265.ts</location>
+			<title>SIC FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/187.ts</location>
+			<title>SPORTV 1 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/195.ts</location>
+			<title>SPORTV 2 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/196.ts</location>
+			<title>SPORTV 3 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/197.ts</location>
+			<title>SPORTV 4 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/198.ts</location>
+			<title>SPORTV 5 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/188.ts</location>
+			<title>BTV 1 HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/200.ts</location>
+			<title>FIGHT NETWORK HD HQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/213.ts</location>
+			<title>EUROSPORT 2 XTRA HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/73.ts</location>
+			<title>PLAYBOY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/57.ts</location>
+			<title>HOT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/live/maneltorre/torre/132.ts</location>
+			<title>VENUS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/312.mkv</location>
+			<title>The Shallows 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/311.mkv</location>
+			<title>Mike and Dave Need Wedding Dates 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/310.mkv</location>
+			<title>Central Intelligence 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/309.mkv</location>
+			<title>The Legend of Tarzan 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/304.mkv</location>
+			<title>Our Kind of Traitor 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/303.mkv</location>
+			<title>Mais Forte que o Mundo A Historia de Jose Aldo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/302.mkv</location>
+			<title>Blood Father 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/301.mkv</location>
+			<title>Bastille Day 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/295.mkv</location>
+			<title>The Secret Life of Pets 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/294.mkv</location>
+			<title>Captain America Civil War 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/293.mkv</location>
+			<title>Robinson Crusoe 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/292.mkv</location>
+			<title>Now You See Me 2 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/290.mkv</location>
+			<title>Money Monster 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/289.mkv</location>
+			<title>A Hologram for the King 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/288.mkv</location>
+			<title>The.Jungle.Book.2016.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/287.mkv</location>
+			<title>Pele Birth Of A Legend 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/283.mkv</location>
+			<title>Warcraft 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/284.mkv</location>
+			<title>The Nice Guys 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/285.mkv</location>
+			<title>Race 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/282.mkv</location>
+			<title>Mothers Day 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/281.mkv</location>
+			<title>Angry Birds 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/280.mkv</location>
+			<title>Criminal</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/279.mkv</location>
+			<title>Marauders 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/272.mp4</location>
+			<title>Zootopia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/270.mp4</location>
+			<title>Boog &amp; Elliot.Aventura na Floresta</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/269.mkv</location>
+			<title>Batman v Superman Dawn of Justice</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/268.mkv</location>
+			<title>Miracles from Heaven</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/267.mkv</location>
+			<title>Demolition</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/261.mkv</location>
+			<title>The Huntsman Winters War 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/262.mkv</location>
+			<title>Eye in the Sky</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/232.mkv</location>
+			<title>Pride And Prejudice And Zombies</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/231.mkv</location>
+			<title>Mad Max Fury Road 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/230.mkv</location>
+			<title>Blackway</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/229.mkv</location>
+			<title>Sicario</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/228.mkv</location>
+			<title>Brooklyn</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/226.mkv</location>
+			<title>Gods of Egypt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/227.mkv</location>
+			<title>Black Mass</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/225.mkv</location>
+			<title>13 Hours The Secret Soldiers of Benghazi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/223.mkv</location>
+			<title>Dads Army</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/222.mkv</location>
+			<title>The Young Messiah</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/221.mkv</location>
+			<title>The Brothers Grimsby</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/219.mkv</location>
+			<title>Triple 9</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/218.mkv</location>
+			<title>Special Correspondents</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/217.mkv</location>
+			<title>Nowhere Boys The Book Of Shadows</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/216.mkv</location>
+			<title>London Has Fallen</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/215.mkv</location>
+			<title>Kindergarten Cop 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/214.mkv</location>
+			<title>Dirty Grandpa 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/205.mkv</location>
+			<title>All Roads Lead to Rome 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/207.mkv</location>
+			<title>I Am Wrath</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/206.mkv</location>
+			<title>Camino</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/208.mkv</location>
+			<title>Precious Cargo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/209.mkv</location>
+			<title>The Choice</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/210.mkv</location>
+			<title>The Driftless Area</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/211.mkv</location>
+			<title>The Finest Hours</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/212.mkv</location>
+			<title>The Runner</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/202.mkv</location>
+			<title>Misconduct 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/204.mkv</location>
+			<title>The Boy</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/201.mkv</location>
+			<title>Jane Got a Gun 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/194.mkv</location>
+			<title>Concussion 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/193.mkv</location>
+			<title>Insurgent 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/192.mkv</location>
+			<title>Deadpool</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/191.mkv</location>
+			<title>Kung Fu Panda 3 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/190.mkv</location>
+			<title>Ice Age The Great Egg-Scapade 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/189.mkv</location>
+			<title>Backtrack 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/186.mkv</location>
+			<title>Star Wars The Force Awakens</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/185.mkv</location>
+			<title>Spotlight</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/183.mkv</location>
+			<title>The 5th Wave</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/182.mkv</location>
+			<title>Point Break</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/180.mkv</location>
+			<title>Pee-wees Big Holiday 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/181.mkv</location>
+			<title>Secret in Their Eyes 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/178.mkv</location>
+			<title>Suffragette 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/179.mkv</location>
+			<title>War Room</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/177.mkv</location>
+			<title>Ip Man 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/176.mkv</location>
+			<title>Remember</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/175.mkv</location>
+			<title>ride And Prejudice And Zombies 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/174.mkv</location>
+			<title>Sisters</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/173.mkv</location>
+			<title>Cabin Fever</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/171.mkv</location>
+			<title>The Lady in the Van</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/170.mkv</location>
+			<title>Hollow Creek</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/164.mkv</location>
+			<title>Miss You Already</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/162.mkv</location>
+			<title>Victor Frankenstein</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/161.mkv</location>
+			<title>Joy 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/163.mkv</location>
+			<title>Kung Fu Panda</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/160.mkv</location>
+			<title>Alvin And The Chipmunks The Road Chip</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/153.mkv</location>
+			<title>Mission Impossible Rogue Nation</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/159.mkv</location>
+			<title>The Night Before 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/158.mkv</location>
+			<title>Creed 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/157.mkv</location>
+			<title>Burnt 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/149.mkv</location>
+			<title>The Revenant: O Renascido (2015)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/148.mkv</location>
+			<title>The Dressmaker (2015)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/156.mkv</location>
+			<title>Paul Blart Mall Cop 2 2015</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/150.mkv</location>
+			<title>No Coraçao do Mar (2015)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptvazorkod.sytes.net:9511/movie/maneltorre/torre/154.mkv</location>
+			<title>Crouching Tiger Hidden Dragon Sword of Destiny 2016</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0" />
+			<vlc:item tid="1" />
+			<vlc:item tid="2" />
+			<vlc:item tid="3" />
+			<vlc:item tid="4" />
+			<vlc:item tid="5" />
+			<vlc:item tid="6" />
+			<vlc:item tid="7" />
+			<vlc:item tid="8" />
+			<vlc:item tid="9" />
+			<vlc:item tid="10" />
+			<vlc:item tid="11" />
+			<vlc:item tid="12" />
+			<vlc:item tid="13" />
+			<vlc:item tid="14" />
+			<vlc:item tid="15" />
+			<vlc:item tid="16" />
+			<vlc:item tid="17" />
+			<vlc:item tid="18" />
+			<vlc:item tid="19" />
+			<vlc:item tid="20" />
+			<vlc:item tid="21" />
+			<vlc:item tid="22" />
+			<vlc:item tid="23" />
+			<vlc:item tid="24" />
+			<vlc:item tid="25" />
+			<vlc:item tid="26" />
+			<vlc:item tid="27" />
+			<vlc:item tid="28" />
+			<vlc:item tid="29" />
+			<vlc:item tid="30" />
+			<vlc:item tid="31" />
+			<vlc:item tid="32" />
+			<vlc:item tid="33" />
+			<vlc:item tid="34" />
+			<vlc:item tid="35" />
+			<vlc:item tid="36" />
+			<vlc:item tid="37" />
+			<vlc:item tid="38" />
+			<vlc:item tid="39" />
+			<vlc:item tid="40" />
+			<vlc:item tid="41" />
+			<vlc:item tid="42" />
+			<vlc:item tid="43" />
+			<vlc:item tid="44" />
+			<vlc:item tid="45" />
+			<vlc:item tid="46" />
+			<vlc:item tid="47" />
+			<vlc:item tid="48" />
+			<vlc:item tid="49" />
+			<vlc:item tid="50" />
+			<vlc:item tid="51" />
+			<vlc:item tid="52" />
+			<vlc:item tid="53" />
+			<vlc:item tid="54" />
+			<vlc:item tid="55" />
+			<vlc:item tid="56" />
+			<vlc:item tid="57" />
+			<vlc:item tid="58" />
+			<vlc:item tid="59" />
+			<vlc:item tid="60" />
+			<vlc:item tid="61" />
+			<vlc:item tid="62" />
+			<vlc:item tid="63" />
+			<vlc:item tid="64" />
+			<vlc:item tid="65" />
+			<vlc:item tid="66" />
+			<vlc:item tid="67" />
+			<vlc:item tid="68" />
+			<vlc:item tid="69" />
+			<vlc:item tid="70" />
+			<vlc:item tid="71" />
+			<vlc:item tid="72" />
+			<vlc:item tid="73" />
+			<vlc:item tid="74" />
+			<vlc:item tid="75" />
+			<vlc:item tid="76" />
+			<vlc:item tid="77" />
+			<vlc:item tid="78" />
+			<vlc:item tid="79" />
+			<vlc:item tid="80" />
+			<vlc:item tid="81" />
+			<vlc:item tid="82" />
+			<vlc:item tid="83" />
+			<vlc:item tid="84" />
+			<vlc:item tid="85" />
+			<vlc:item tid="86" />
+			<vlc:item tid="87" />
+			<vlc:item tid="88" />
+			<vlc:item tid="89" />
+			<vlc:item tid="90" />
+			<vlc:item tid="91" />
+			<vlc:item tid="92" />
+			<vlc:item tid="93" />
+			<vlc:item tid="94" />
+			<vlc:item tid="95" />
+			<vlc:item tid="96" />
+			<vlc:item tid="97" />
+			<vlc:item tid="98" />
+			<vlc:item tid="99" />
+			<vlc:item tid="100" />
+			<vlc:item tid="101" />
+			<vlc:item tid="102" />
+			<vlc:item tid="103" />
+			<vlc:item tid="104" />
+			<vlc:item tid="105" />
+			<vlc:item tid="106" />
+			<vlc:item tid="107" />
+			<vlc:item tid="108" />
+			<vlc:item tid="109" />
+			<vlc:item tid="110" />
+			<vlc:item tid="111" />
+			<vlc:item tid="112" />
+			<vlc:item tid="113" />
+			<vlc:item tid="114" />
+			<vlc:item tid="115" />
+			<vlc:item tid="116" />
+			<vlc:item tid="117" />
+			<vlc:item tid="118" />
+			<vlc:item tid="119" />
+			<vlc:item tid="120" />
+			<vlc:item tid="121" />
+			<vlc:item tid="122" />
+			<vlc:item tid="123" />
+			<vlc:item tid="124" />
+			<vlc:item tid="125" />
+			<vlc:item tid="126" />
+			<vlc:item tid="127" />
+			<vlc:item tid="128" />
+			<vlc:item tid="129" />
+			<vlc:item tid="130" />
+			<vlc:item tid="131" />
+			<vlc:item tid="132" />
+			<vlc:item tid="133" />
+			<vlc:item tid="134" />
+			<vlc:item tid="135" />
+			<vlc:item tid="136" />
+			<vlc:item tid="137" />
+			<vlc:item tid="138" />
+			<vlc:item tid="139" />
+			<vlc:item tid="140" />
+			<vlc:item tid="141" />
+			<vlc:item tid="142" />
+			<vlc:item tid="143" />
+			<vlc:item tid="144" />
+			<vlc:item tid="145" />
+			<vlc:item tid="146" />
+			<vlc:item tid="147" />
+			<vlc:item tid="148" />
+			<vlc:item tid="149" />
+			<vlc:item tid="150" />
+			<vlc:item tid="151" />
+			<vlc:item tid="152" />
+			<vlc:item tid="153" />
+			<vlc:item tid="154" />
+			<vlc:item tid="155" />
+			<vlc:item tid="156" />
+			<vlc:item tid="157" />
+			<vlc:item tid="158" />
+			<vlc:item tid="159" />
+			<vlc:item tid="160" />
+			<vlc:item tid="161" />
+			<vlc:item tid="162" />
+			<vlc:item tid="163" />
+			<vlc:item tid="164" />
+			<vlc:item tid="165" />
+			<vlc:item tid="166" />
+			<vlc:item tid="167" />
+			<vlc:item tid="168" />
+			<vlc:item tid="169" />
+			<vlc:item tid="170" />
+			<vlc:item tid="171" />
+			<vlc:item tid="172" />
+			<vlc:item tid="173" />
+			<vlc:item tid="174" />
+			<vlc:item tid="175" />
+			<vlc:item tid="176" />
+			<vlc:item tid="177" />
+			<vlc:item tid="178" />
+			<vlc:item tid="179" />
+			<vlc:item tid="180" />
+			<vlc:item tid="181" />
+			<vlc:item tid="182" />
+			<vlc:item tid="183" />
+			<vlc:item tid="184" />
+			<vlc:item tid="185" />
+			<vlc:item tid="186" />
+			<vlc:item tid="187" />
+			<vlc:item tid="188" />
+			<vlc:item tid="189" />
+			<vlc:item tid="190" />
+			<vlc:item tid="191" />
+			<vlc:item tid="192" />
+			<vlc:item tid="193" />
+			<vlc:item tid="194" />
+			<vlc:item tid="195" />
+			<vlc:item tid="196" />
+			<vlc:item tid="197" />
+			<vlc:item tid="198" />
+			<vlc:item tid="199" />
+			<vlc:item tid="200" />
+			<vlc:item tid="201" />
+			<vlc:item tid="202" />
+			<vlc:item tid="203" />
+			<vlc:item tid="204" />
+			<vlc:item tid="205" />
+			<vlc:item tid="206" />
+			<vlc:item tid="207" />
+			<vlc:item tid="208" />
+			<vlc:item tid="209" />
+			<vlc:item tid="210" />
+			<vlc:item tid="211" />
+			<vlc:item tid="212" />
+			<vlc:item tid="213" />
+			<vlc:item tid="214" />
+			<vlc:item tid="215" />
+			<vlc:item tid="216" />
+			<vlc:item tid="217" />
+			<vlc:item tid="218" />
+			<vlc:item tid="219" />
+			<vlc:item tid="220" />
+			<vlc:item tid="221" />
+			<vlc:item tid="222" />
+			<vlc:item tid="223" />
+			<vlc:item tid="224" />
+			<vlc:item tid="225" />
+			<vlc:item tid="226" />
+			<vlc:item tid="227" />
+			<vlc:item tid="228" />
+			<vlc:item tid="229" />
+			<vlc:item tid="230" />
+			<vlc:item tid="231" />
+			<vlc:item tid="232" />
+	</extension>
+</playlist>
