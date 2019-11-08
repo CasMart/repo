@@ -74,22 +74,26 @@ http://localhd.tv:8081/live/rachida/rachida/1661.m3u8
 http://localhd.tv:8081/live/rachida/rachida/2328.m3u8
 #EXTINF:-1,======== CINEMA & SERIES   ========
 http://localhd.tv:8081/live/rachida/rachida/3563.m3u8
+#EXTINF:-1,PT: TVCINE 1 HD 
+http://client-proiptv.com:8080/live/josep/josep/16051.m3u8
 #EXTINF:-1,|PT| TV CINE 1  HD
 http://localhd.tv:8081/live/rachida/rachida/1716.m3u8
+#EXTINF:-1,PT: TVCINE 2 HD 
+http://client-proiptv.com:8080/live/josep/josep/16050.m3u8
 #EXTINF:-1,|PT| TV CINE 2  HD
 http://localhd.tv:8081/live/rachida/rachida/1717.m3u8
+#EXTINF:-1,PT: TVCINE 3 HD 
+http://client-proiptv.com:8080/live/josep/josep/16049.m3u8
 #EXTINF:-1,|PT| TV CINE 3 HD
 http://localhd.tv:8081/live/rachida/rachida/1718.m3u8
+#EXTINF:-1,PT: TVCINE 4 HD 
+http://client-proiptv.com:8080/live/josep/josep/16048.m3u8
 #EXTINF:-1,|PT| TV CINE 4 HD
 http://localhd.tv:8081/live/rachida/rachida/1719.m3u8
-#EXTINF:-1,PT: TV Cine 1HD
-http://client-proiptv.com:8080/live/captain/captain/6499.m3u8
-#EXTINF:-1,PT: TV Cine 2HD
-http://client-proiptv.com:8080/live/captain/captain/6500.m3u8
-#EXTINF:-1,PT: TV Cine 3HD
-http://client-proiptv.com:8080/live/captain/captain/6501.m3u8
-#EXTINF:-1,PT: TV Cine 4HD
-http://client-proiptv.com:8080/live/captain/captain/6502.m3u8
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://client-proiptv.com:8080/live/abdoul/abdoul/31316.m3u8
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://client-proiptv.com:8080/live/josep/josep/31316.m3u8
 #EXTINF:-1,|PT| CINEMUNDO
 http://localhd.tv:8081/live/rachida/rachida/1701.m3u8
 #EXTINF:-1,|PT| TV SERIES
@@ -125,9 +129,9 @@ http://localhd.tv:8081/live/rachida/rachida/6730.m3u8
 #EXTINF:-1,|PT| SPORT TV+
 http://localhd.tv:8081/live/rachida/rachida/2324.m3u8
 #EXTINF:-1,PT: SPORT TV+HD 
-http://client-proiptv.com:8080/live/captain/captain/16057.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16057.m3u8
 #EXTINF:-1,PT: SPORT TV 1 HD 
-http://client-proiptv.com:8080/live/captain/captain/16056.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16056.m3u8
 #EXTINF:-1,SPORT TV 1 HD
 http://85.241.33.213:8001/1:0:1:579:68:53:CE40000:0:0:0:
 #EXTINF:-1, SPORT TV 1 HD 
@@ -148,6 +152,10 @@ http://85.241.174.104:8001/1:0:1:12E:67:53:CE40000:0:0:0:
 http://localhd.tv:8081/live/rachida/rachida/4438.m3u8
 #EXTINF:-1,|PT| SPORT TV 1 HD
 http://localhd.tv:8081/live/rachida/rachida/1721.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD 
+http://client-proiptv.com:8080/live/josep/josep/16055.m3u8
+#EXTINF:-1,PT: SPORT TV 3 HD 
+http://client-proiptv.com:8080/live/josep/josep/16054.m3u8
 #EXTINF:-1,SPORT TV 2 HD
 http://85.241.174.104:8001/1:0:1:57A:68:53:CE40000:0:0:0:
 #EXTINF:-1,|PT| SPORT TV 2 HD
@@ -161,9 +169,9 @@ http://85.243.134.128:8001/1:0:1:CD:66:53:CE40000:0:0:0:
 #EXTINF:-1,SPORT TV 2
 http://85.241.194.22:8001/1:0:1:CD:66:53:CE40000:0:0:0:
 #EXTINF:-1,PT: SPORT TV 2 HD 
-http://client-proiptv.com:8080/live/captain/captain/16055.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16055.m3u8
 #EXTINF:-1,PT: SPORT TV 3 HD 
-http://client-proiptv.com:8080/live/captain/captain/16054.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16054.m3u8
 #EXTINF:-1,|PT| SPORT TV 3 HD
 http://localhd.tv:8081/live/rachida/rachida/1723.m3u8
 #EXTINF:-1,SPORT TV 3 HD
@@ -179,21 +187,23 @@ http://localhd.tv:8081/live/rachida/rachida/1724.m3u8
 #EXTINF:-1,SPORT TV 4
 http://85.241.194.22:8001/1:0:1:81:65:53:CE40000:0:0:0:
 #EXTINF:-1,PT: SPORT TV 4 HD 
-http://client-proiptv.com:8080/live/captain/captain/16053.m3u8
-#EXTINF:-1,PT: Sport TV4
-http://client-proiptv.com:8080/live/captain/captain/6497.m3u8
-#EXTINF:-1,PT: Sport TV5
-http://client-proiptv.com:8080/live/captain/captain/6498.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16053.m3u8
 #EXTINF:-1,PT: SPORT TV 5 HD 
-http://client-proiptv.com:8080/live/captain/captain/16052.m3u8
+http://client-proiptv.com:8080/live/josep/josep/16052.m3u8
 #EXTINF:-1,|PT| SPORT TV  5 HD
 http://localhd.tv:8081/live/rachida/rachida/2139.m3u8
 #EXTINF:-1,|PT| SPORT TV 5
 http://localhd.tv:8081/live/rachida/rachida/2295.m3u8
+#EXTINF:-1,PT: Sport TV5
+http://client-proiptv.com:8080/josep/josep/6498.m3u8
+#EXTINF:-1,PT: Sport TV NBA HD
+http://client-proiptv.com:8080/josep/josep/4483.m3u8
 #EXTINF:-1,BTV HD
 http://localhd.tv:8081/live/rachida/rachida/4269.m3u8
+#EXTINF:-1,BTV HD 
+http://client-proiptv.com:8080/live/josep/josep/9642.m3u8
 #EXTINF:-1,BTV HD
-http://client-proiptv.com:8080/captain/captain/3645.m3u8
+http://client-proiptv.com:8080/live/josep/josep/3645.m3u8
 #EXTINF:-1,BTV HD
 http://85.241.174.104:8001/1:0:1:580:68:53:CE40000:0:0:0:
 #EXTINF:-1,BTV HD
@@ -228,72 +238,10 @@ http://localhd.tv:8081/live/rachida/rachida/1710.m3u8
 http://localhd.tv:8081/live/rachida/rachida/2325.m3u8
 #EXTINF:-1,|PT| MOTORVISION
 http://localhd.tv:8081/live/rachida/rachida/2327.m3u8
+#EXTINF:-1,PT: Motorvision
+http://client-proiptv.com:8080/live/josep/josep/4485.m3u8
 #EXTINF:-1,|PT| PFC HD
 http://localhd.tv:8081/live/rachida/rachida/1686.m3u8
-#EXTINF:-1,======== CULTURA  ========
-http://localhd.tv:8081/live/rachida/rachida/3565.m3u8
-#EXTINF:-1,|PT| MY CUISINE TV HD
-http://localhd.tv:8081/live/rachida/rachida/9353.m3u8
-#EXTINF:-1,|PT| 24 KITCHEN
-http://localhd.tv:8081/live/rachida/rachida/1712.m3u8
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
-http://localhd.tv:8081/live/rachida/rachida/1690.m3u8
-#EXTINF:-1,|PT| NATIONAL GEO WILD
-http://localhd.tv:8081/live/rachida/rachida/1689.m3u8
-#EXTINF:-1,|PT| ODISSEIA
-http://localhd.tv:8081/live/rachida/rachida/1687.m3u8
-#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
-http://localhd.tv:8081/live/rachida/rachida/1698.m3u8
-#EXTINF:-1,|PT| DISCOVERY CHANNEL
-http://localhd.tv:8081/live/rachida/rachida/1699.m3u8
-#EXTINF:-1,CBS Reality
-http://85.246.179.143:8001/1:0:1:D9:66:53:CE40000:0:0:0:
-#EXTINF:-1,CBS Reality
-http://85.247.163.204:8001/1:0:1:D9:66:53:CE40000:0:0:0:
-#EXTINF:-1,|PT| CBS REALITY
-http://localhd.tv:8081/live/rachida/rachida/1703.m3u8
-#EXTINF:-1,|PT| CANAL HISTORIA
-http://localhd.tv:8081/live/rachida/rachida/1706.m3u8
-#EXTINF:-1,|PT| CACA & PESCA
-http://localhd.tv:8081/live/rachida/rachida/1707.m3u8
-#EXTINF:-1,|PT| CACA VISION
-http://localhd.tv:8081/live/rachida/rachida/2323.m3u8
-#EXTINF:-1,|PT| CACA E PESCA
-http://localhd.tv:8081/live/rachida/rachida/2322.m3u8
-#EXTINF:-1,|PT| A & E
-http://localhd.tv:8081/live/rachida/rachida/1711.m3u8
-#EXTINF:-1,|PT| CANAL  TOROS
-http://localhd.tv:8081/live/rachida/rachida/2554.m3u8
-#EXTINF:-1,|PT| TLC HD
-http://localhd.tv:8081/live/rachida/rachida/1681.m3u8
-#EXTINF:-1,|PT| TRAVEL CHANNEL HD
-http://localhd.tv:8081/live/rachida/rachida/2773.m3u8
-#EXTINF:-1,|PT| TPA INTERN
-http://localhd.tv:8081/live/rachida/rachida/1679.m3u8
-#EXTINF:-1,|PT| MTV  DANCE
-http://localhd.tv:8081/live/rachida/rachida/2145.m3u8
-#EXTINF:-1,|PT| MCM TOP
-http://localhd.tv:8081/live/rachida/rachida/2146.m3u8
-#EXTINF:-1,|PT| VH1 CLASSIC HD
-http://localhd.tv:8081/live/rachida/rachida/3091.m3u8
-#EXTINF:-1,|PT| VH1 HD
-http://localhd.tv:8081/live/rachida/rachida/2143.m3u8
-#EXTINF:-1,|PT| VH1+
-http://localhd.tv:8081/live/rachida/rachida/1671.m3u8
-#EXTINF:-1,|PT| TRACE URBAN TV
-http://localhd.tv:8081/live/rachida/rachida/2142.m3u8
-#EXTINF:-1,|PT| AFRO MUSIC
-http://localhd.tv:8081/live/rachida/rachida/2141.m3u8
-#EXTINF:-1,|PT| TV RECORD
-http://localhd.tv:8081/live/rachida/rachida/1676.m3u8
-#EXTINF:-1,|PT| TV GLOBO PREMUIM
-http://localhd.tv:8081/live/rachida/rachida/1677.m3u8
-#EXTINF:-1,|PT| TV GLOBO
-http://localhd.tv:8081/live/rachida/rachida/1678.m3u8
-#EXTINF:-1,|PT| MTV HD
-http://localhd.tv:8081/live/rachida/rachida/1691.m3u8
-#EXTINF:-1,PT: Crime   Investigation
-http://localhd.tv:8081/live/rachida/rachida/265011151.m3u8
 #EXTINF:-1,======== PORTUGAL FULLHD ========
 http://localhd.tv:8081/live/rachida/rachida/4270.m3u8
 #EXTINF:-1,|PT| CANAL 11
@@ -310,6 +258,8 @@ http://localhd.tv:8081/live/rachida/rachida/5337.m3u8
 http://localhd.tv:8081/live/rachida/rachida/7212.m3u8
 #EXTINF:-1,(PT) SIC  RADICAL FHD
 http://localhd.tv:8081/live/rachida/rachida/5339.m3u8
+#EXTINF:-1,(PT) Sport TV 4K
+http://client-proiptv.com:8080/live/abdoul/abdoul/23017.m3u8
 #EXTINF:-1,(PT) SPORT TV + FHD
 http://localhd.tv:8081/live/rachida/rachida/5340.m3u8
 #EXTINF:-1,(PT) SPORT TV 1 FHD
@@ -355,33 +305,97 @@ http://localhd.tv:8081/live/rachida/rachida/6729.m3u8
 #EXTINF:-1,(PT) ELEVEN SPORTS 4 FHD
 http://localhd.tv:8081/live/rachida/rachida/6512.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 1
-http://client-proiptv.com:8080/live/captain/captain/30988.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30988.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 1 HD
-http://client-proiptv.com:8080/live/captain/captain/30987.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30987.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 1 FHD
-http://client-proiptv.com:8080/live/captain/captain/18818.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18818.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 2
-http://client-proiptv.com:8080/live/captain/captain/30986.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30986.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 2 HD
-http://client-proiptv.com:8080/live/captain/captain/30985.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30985.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 2 FHD
-http://client-proiptv.com:8080/live/captain/captain/18819.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18819.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 3 HD
-http://client-proiptv.com:8080/live/captain/captain/30984.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30984.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 3 FHD
-http://client-proiptv.com:8080/live/captain/captain/18820.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18820.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 4 HD
-http://client-proiptv.com:8080/live/captain/captain/30983.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30983.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 4 FHD
-http://client-proiptv.com:8080/live/captain/captain/18821.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18821.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 5 HD
-http://client-proiptv.com:8080/live/captain/captain/30982.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30982.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 5 FHD
-http://client-proiptv.com:8080/live/captain/captain/18822.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18822.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 6 HD
-http://client-proiptv.com:8080/live/captain/captain/30981.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/30981.m3u8
 #EXTINF:-1,VIP PT: Eleven Sport 6 FHD
-http://client-proiptv.com:8080/live/captain/captain/18823.m3u8
+http://client-proiptv.com:8080/live/abdoul/abdoul/18823.m3u8
+#EXTINF:-1,======== CULTURA  ========
+http://localhd.tv:8081/live/rachida/rachida/3565.m3u8
+#EXTINF:-1,|PT| MY CUISINE TV HD
+http://localhd.tv:8081/live/rachida/rachida/9353.m3u8
+#EXTINF:-1,|PT| 24 KITCHEN
+http://localhd.tv:8081/live/rachida/rachida/1712.m3u8
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+http://localhd.tv:8081/live/rachida/rachida/1690.m3u8
+#EXTINF:-1,|PT| NATIONAL GEO WILD
+http://localhd.tv:8081/live/rachida/rachida/1689.m3u8
+#EXTINF:-1,|PT| ODISSEIA
+http://localhd.tv:8081/live/rachida/rachida/1687.m3u8
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://localhd.tv:8081/live/rachida/rachida/1698.m3u8
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://localhd.tv:8081/live/rachida/rachida/1699.m3u8
+#EXTINF:-1,CBS Reality
+http://85.246.179.143:8001/1:0:1:D9:66:53:CE40000:0:0:0:
+#EXTINF:-1,CBS Reality
+http://85.247.163.204:8001/1:0:1:D9:66:53:CE40000:0:0:0:
+#EXTINF:-1,|PT| CBS REALITY
+http://localhd.tv:8081/live/rachida/rachida/1703.m3u8
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://localhd.tv:8081/live/rachida/rachida/1706.m3u8
+#EXTINF:-1,|PT| CACA & PESCA
+http://localhd.tv:8081/live/rachida/rachida/1707.m3u8
+#EXTINF:-1,|PT| CACA VISION
+http://localhd.tv:8081/live/rachida/rachida/2323.m3u8
+#EXTINF:-1,|PT| CACA E PESCA
+http://localhd.tv:8081/live/rachida/rachida/2322.m3u8
+#EXTINF:-1,|PT| A & E
+http://localhd.tv:8081/live/rachida/rachida/1711.m3u8
+#EXTINF:-1,|PT| CANAL  TOROS
+http://localhd.tv:8081/live/rachida/rachida/2554.m3u8
+#EXTINF:-1,|PT| TLC HD
+http://localhd.tv:8081/live/rachida/rachida/1681.m3u8
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://localhd.tv:8081/live/rachida/rachida/2773.m3u8
+#EXTINF:-1,|PT| TPA INTERN
+http://localhd.tv:8081/live/rachida/rachida/1679.m3u8
+#EXTINF:-1,======== MUSICA ========
+http://localhd.tv:8081/live/rachida/rachida/3565.m3u8
+#EXTINF:-1,|PT| MTV  DANCE
+http://localhd.tv:8081/live/rachida/rachida/2145.m3u8
+#EXTINF:-1,|PT| MCM TOP
+http://localhd.tv:8081/live/rachida/rachida/2146.m3u8
+#EXTINF:-1,|PT| VH1 CLASSIC HD
+http://localhd.tv:8081/live/rachida/rachida/3091.m3u8
+#EXTINF:-1,|PT| VH1 HD
+http://localhd.tv:8081/live/rachida/rachida/2143.m3u8
+#EXTINF:-1,|PT| VH1+
+http://localhd.tv:8081/live/rachida/rachida/1671.m3u8
+#EXTINF:-1,|PT| TRACE URBAN TV
+http://localhd.tv:8081/live/rachida/rachida/2142.m3u8
+#EXTINF:-1,|PT| AFRO MUSIC
+http://localhd.tv:8081/live/rachida/rachida/2141.m3u8
+#EXTINF:-1,|PT| TV RECORD
+http://localhd.tv:8081/live/rachida/rachida/1676.m3u8
+#EXTINF:-1,|PT| TV GLOBO PREMUIM
+http://localhd.tv:8081/live/rachida/rachida/1677.m3u8
+#EXTINF:-1,|PT| TV GLOBO
+http://localhd.tv:8081/live/rachida/rachida/1678.m3u8
+#EXTINF:-1,|PT| MTV HD
+http://localhd.tv:8081/live/rachida/rachida/1691.m3u8
 #EXTINF:-1,----------- RMC SPORT LIVE -----------
 http://localhd.tv:8081/live/rachida/rachida/5711.m3u8
 #EXTINF:-1,|FR| RMC SPORT 1 FHD STABLE
